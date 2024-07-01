@@ -11,7 +11,7 @@ He is currently a PhD student at Guangdong University of Technology, focusing on
 
 News
 ======
-* Our code is written using open-source tools such as GNU/Octave. 2024-04
+* Code is written using open-source tools such as GNU/Octave. 2024-04
 
 Recent Work
 ======
