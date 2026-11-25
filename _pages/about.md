@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-He is currently a PhD student at Guangdong University of Technology, focusing on research in evolutionary algorithms, evolutionary multitasking, and vehicle routing problems.
+Xiong Qinglin is a graduate student at Jiangxi University of Water Resources and Electric Power.
 
 News
 ======
