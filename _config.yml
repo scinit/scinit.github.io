@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yanlin Wu / PhD"
+title                    : "Xiong Qinglin / Graduate"
 title_separator          : "-"
-name                     : &name "Yanlin Wu"
-description              : &description "A Phd Student"
+name                     : &name "Xiong Qinglin"
+description              : &description "Graduate Student"
 url                      : https://scinit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "used.png"
-  name             : "Yanlin Wu"
+  name             : "Xiong Qinglin"
   pronouns         : # example: "she/her"  
-  bio              : "A PhD Student"
+  bio              : "Graduate Student"
   location         : "Guangzhou City, Guangdong Province"
-  employer         : "Guangdong University of Technology"
+  employer         : "Jiangxi University of Water Resources and Electric Power"
   uri              : # URL
   email            : "ylwucomm#foxmail.com" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
@@ -75,7 +75,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x500.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -86,7 +86,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org/t
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -95,7 +95,7 @@ staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
+  filename               : "comment-{@timestamp}"
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -103,7 +103,7 @@ staticman:
   transforms:
     email                : "md5"
   generatedFields:
-    date:
+    date: 
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
@@ -301,15 +301,10 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  Type:  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives: dependent on your own
+#  - <base_path>/tags/my-awesome-category/index.html ~> path: /tags/
+#  - <base_path>/base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -317,16 +312,9 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+#  - <base_path>/tags/my-awesome-category/index.html ~> path: /tags/
+#  - <base_path>/my-awesome-category/index.html ~> path: /tags/
+#  - <base_path>/my-awesome-category/index.html ~> path: /tags/
 
 
 # HTML Compression
