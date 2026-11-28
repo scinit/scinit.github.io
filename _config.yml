@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "艳林团队 / Graduate"
+title                    : "Yanlin Team / Graduate"
 title_separator          : "-"
-name                     : &name "艳林团队"
+name                     : &name "Yanlin Team"
 description              : &description "Graduate Student"
 url                      : https://scinit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "used.png"
-  name             : "艳林团队"
+  name             : "Yanlin Team"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
   location         : "Guangzhou City, Guangdong Province"
