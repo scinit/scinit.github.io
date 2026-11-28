@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yanlin Team is a graduate student at Jiangxi University of Water Resources and Electric Power.
+The Yanlin Team is a research group at Jiangxi University of Water Resources and Electric Power.
 
 News
 ======
