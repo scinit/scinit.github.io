@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**Wang Hui** | Professor, Vice Dean of the School of Information Engineering, Jiangxi University of Water Resources and Electric Power, and Master's Supervisor. His research interests include evolutionary computation, swarm intelligence, multi-objective optimization, and optimal scheduling. He has led three projects funded by the National Natural Science Foundation of China, received three Second Prizes of the Jiangxi Natural Science Award, and is listed among the World's Top 2% Scientists. He has supervised a number of graduate students, several of whom went on to pursue doctoral degrees.
+
 News
 ======
 <p>* Code is written using open-source tools such as GNU/Octave. 2024-04</p>
