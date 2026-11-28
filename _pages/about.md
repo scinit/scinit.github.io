@@ -15,6 +15,10 @@ redirect_from:
 
 <p>WuYanlin is a Ph.D., Lecturer at the School of Artificial Intelligence, Jiangxi University of Water Resources and Electric Power, and founder of the Intelligent Optimization Team. His research focuses on evolutionary algorithms, evolutionary multitasking optimization, and vehicle routing problems. He has led three projects, including the National Natural Science Foundation of China and the Jiangxi Natural Science Foundation. He has published multiple papers in SCI Q1 journals as first or corresponding author.</p>
 
+<p>XiongQinglin</p>
+
+<p>XiongQinglin is a first-year master's student. His research focuses on evolutionary multitasking optimization algorithms and emergency logistics scheduling. He currently works on small- to medium-scale flood emergency VRP problems, using dynamic time-varying road networks as the research scenario. Under a multitasking optimization framework, he explores the patterns of knowledge transfer between tasks, with a focus on suppressing negative transfer. He applies intelligent optimization algorithms to address challenges such as dynamic disturbances and multi-constraint coupling in flood emergency scheduling, aiming to improve the reliability and response efficiency of emergency vehicle routing plans. In research, he enjoys exchanging ideas and discussing problems with team members and actively keeps up with advances in the field. He is optimistic and outgoing, with good communication and teamwork skills. In his spare time, he enjoys listening to music and playing badminton, balancing work and rest to stay in a full and steady state for his research and study.</p>
+
 News
 ======
 <p>* Code is written using open-source tools such as GNU/Octave. 2024-04</p>
