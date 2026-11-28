@@ -31,6 +31,10 @@ redirect_from:
 
 <p>SongWenjing is a second-year undergraduate student. She focuses on vehicle routing optimization. She currently studies classic vehicle routing problems such as CVRP and VRPTW, and learns intelligent optimization methods such as genetic algorithms, gaining an understanding of path planning model construction, algorithm encoding, and result analysis. She keeps up with literature in the field and tries to reproduce basic models and algorithms, building a foundation for future patents and research work. In the team, she enjoys exchanging ideas and checking experiments with teammates, completes assigned tasks carefully, and proactively learns relevant tools. She is steady and diligent, with good learning and teamwork awareness. In her spare time, she habitually reviews code and reads literature to consolidate her professional knowledge, maintaining a steady state for research and study.</p>
 
+<p>SongYongcheng</p>
+
+<p>SongYongcheng is a second-year undergraduate student, focusing on vehicle routing optimization. He currently studies vehicle routing problems under capacity and time window constraints, and is familiar with the solving ideas of intelligent optimization algorithms such as genetic algorithms. He learns the complete process of routing problem modeling, algorithm encoding and debugging, and experimental result analysis. He keeps up with cutting-edge literature in the field and, through teamwork, reproduces basic instances together with others, gradually accumulating research experience to lay a foundation for future academic exploration and patent-related work. In projects, he actively discusses solutions with team members, cooperates in experimental verification, implements assigned tasks, and proactively learns supporting programming and simulation tools. In daily life, he enjoys reading professional books to broaden his theoretical knowledge, likes exchanging ideas with peers, and keeps exercising to stay in good physical and mental condition for research and study.</p>
+
 News
 ======
 <p>* Code is written using open-source tools such as GNU/Octave. 2024-04</p>
