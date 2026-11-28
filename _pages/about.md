@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-艳林团队 is a graduate student at Jiangxi University of Water Resources and Electric Power.
+Yanlin Team is a graduate student at Jiangxi University of Water Resources and Electric Power.
 
 News
 ======
