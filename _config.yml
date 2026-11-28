@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiong Qinglin / Graduate"
+title                    : "艳林团队 / Graduate"
 title_separator          : "-"
-name                     : &name "Xiong Qinglin"
+name                     : &name "艳林团队"
 description              : &description "Graduate Student"
 url                      : https://scinit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "used.png"
-  name             : "Xiong Qinglin"
+  name             : "艳林团队"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student"
   location         : "Guangzhou City, Guangdong Province"
@@ -304,7 +304,7 @@ whitelist:
 #  Type:  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives: dependent on your own
 #  - <base_path>/tags/my-awesome-category/index.html ~> path: /tags/
-#  - <base_path>/base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -312,7 +312,7 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-#  - <base_path>/tags/my-awesome-category/index.html ~> path: /tags/
+#  - <base_path>/tags/my-awesome-category/index.html ~> path: /tags/  # <base_path>/my-awesome-category/index.html ~> path: /tags/
 #  - <base_path>/my-awesome-category/index.html ~> path: /tags/
 #  - <base_path>/my-awesome-category/index.html ~> path: /tags/
 
