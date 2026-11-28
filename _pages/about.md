@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xiong Qinglin is a graduate student at Jiangxi University of Water Resources and Electric Power.
+艳林团队 is a graduate student at Jiangxi University of Water Resources and Electric Power.
 
 News
 ======
