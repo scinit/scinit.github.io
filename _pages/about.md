@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-The Yanlin Team is a research group at Jiangxi University of Water Resources and Electric Power.
-
 News
 ======
 <p>* Code is written using open-source tools such as GNU/Octave. 2024-04</p>
