@@ -11,6 +11,10 @@ redirect_from:
 
 <p>WangHui is a Professor and Vice Dean of the School of Information Engineering, Jiangxi University of Water Resources and Electric Power, and Master's Supervisor. His research interests include evolutionary computation, swarm intelligence, multi-objective optimization, and optimal scheduling. He has led three projects funded by the National Natural Science Foundation of China, received three Second Prizes of the Jiangxi Natural Science Award, and is listed among the World's Top 2% Scientists. He has supervised a number of graduate students, several of whom went on to pursue doctoral degrees.</p>
 
+<p>WuYanlin</p>
+
+<p>WuYanlin is a Ph.D., Lecturer at the School of Artificial Intelligence, Jiangxi University of Water Resources and Electric Power, and founder of the Intelligent Optimization Team. His research focuses on evolutionary algorithms, evolutionary multitasking optimization, and vehicle routing problems. He has led three projects, including the National Natural Science Foundation of China and the Jiangxi Natural Science Foundation. He has published multiple papers in SCI Q1 journals as first or corresponding author.</p>
+
 News
 ======
 <p>* Code is written using open-source tools such as GNU/Octave. 2024-04</p>
